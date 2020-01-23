@@ -4,6 +4,7 @@ Every day I learn new tricks of the trade working as an aspiring Analytics Engin
 
 Categories of learning: 
 * Python
+* SQL
 
 ### Shoutout 
 to the wonderful @veekaybee for the idea to start a TIL repo
