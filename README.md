@@ -6,5 +6,5 @@ Categories of learning:
 * Python
 * SQL
 
-### Shoutout 
-to the wonderful @veekaybee for the idea to start a TIL repo
+
+**Shoutout to the wonderful @veekaybee for the idea**
