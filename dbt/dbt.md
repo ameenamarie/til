@@ -1,8 +1,8 @@
 # dbt Commands
 
 ## Tests
-Test connection if dbt run fails to connect 
+This command will help you troubleshoot any connection issues with dbt. 
 ```console
-dbt debug
+$ dbt debug
 ```
-This command will help you troubleshoot any connection issues. 
+
